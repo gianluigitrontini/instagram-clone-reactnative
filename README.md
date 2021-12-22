@@ -1,4 +1,4 @@
-# instagram-clone-reactnative
+# Instagram clone using React Native + Firebase
 A clone of the official Instagram app using React Native + Firebase.
 
 Includes:
